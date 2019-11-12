@@ -1,0 +1,2 @@
+# Robust-Model-For-Class-Imbalance
+There is no particular definition for imbalanced class of data. In general, data that is not balanced is called imbalanced. However, there are infinite possibility of imbalanced class of data. Usually, we do up-sampling or down-sampling of the imbalanced data and make it balanced before applying machine learning models. In both the cases, we lose information about that data set. In this project, we would like to investigate what are the best models through all possible imbalanced situation of a data set.
